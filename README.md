@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![TryHackMe Badge](https://github.com/pant3los/pant3los/raw/main/thm_badge.svg)
-
+![tryhackme stats](https://raw.githubusercontent.com/pant3los/pant3los/master/assets/thm_propic.png)
 
 <!--
 **pant3los/pant3los** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
