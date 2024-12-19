@@ -15,7 +15,7 @@ jobs:
       - name: Update TryHackMe Badge
         uses: amiralis/tryhackme-badge-workflow@v1
         with:
-          tryhackme-username: "pant3los"
+          tryhackme-username: "delos7"
       - name: Commit and Push changes
         run: |
           git config user.name "github-actions[bot]"
